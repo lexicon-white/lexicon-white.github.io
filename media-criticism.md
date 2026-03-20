@@ -10,6 +10,6 @@ title: 媒介批评
 ---
 
 ### 文章列表
-1. [Why We Buy Games We Don’t Play](./media-criticism/why-we-buy-games-en.md)
+1. [Why We Buy Games We Don’t Play](./media-criticism/media-criticism/en)
 ---
 [返回首页](../)
