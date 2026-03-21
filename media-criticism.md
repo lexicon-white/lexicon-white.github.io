@@ -11,6 +11,6 @@ title: 媒介批评
 
 ### 文章列表
 1. [EN——Why We Buy Games We Don’t Play？](media-criticism/en/why-we-buy-games-en.md)
-   [CN——算法是如何杀死我们的游戏欲望？](media-criticism/zh/why-we-buy-games-cn.md)
+   [CN——算法是如何杀死我们的游戏欲望？](media-criticism/cn/why-we-buy-games-cn.md)
 ---
 [返回首页](../)
