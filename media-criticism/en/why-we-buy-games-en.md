@@ -3,7 +3,7 @@ layout: default
 title: Why We Buy Games We Don’t Play
 ---
 
-[📖 阅读中文版](../zh/why-we-buy-games-zh.md) | **English Version**
+[📖 阅读中文版](../zh/why-we-buy-games-cn.md) | **English Version**
 
 # Why We Buy Games We Don’t Play
 
