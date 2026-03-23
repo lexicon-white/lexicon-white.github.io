@@ -150,4 +150,4 @@ title: 算法推荐如何杀死了我们玩游戏的欲望
 灵魂震颤的垂直角落时，那将不仅仅是一次简单的游玩，更是一次审美主权的回归。
 
 ---
-[Back to Media Criticism List](../../media-criticism.md)
+[返回媒介批评目录](../../media-criticism.md)
