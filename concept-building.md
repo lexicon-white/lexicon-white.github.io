@@ -10,7 +10,8 @@ title: 概念建构
 ---
 
 ### 文章列表
-1.海洋朋克-潮汐纪元（Ocean punk）
+1.[CN-海洋朋克-潮汐纪元](./concept-building/ocean punk.md)
+  [EN-Ocean punk]
 
 ---
 [返回首页](../)
