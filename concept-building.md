@@ -10,7 +10,7 @@ title: 概念建构
 ---
 
 ### 文章列表
-1.
+
 -（1）[CN-海洋朋克-](./concept-building/ocean punk.md)
   
 -（2）[EN-OCEAN PUNK-](./concept-building/oceanpunk.md)
