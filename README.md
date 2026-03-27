@@ -1,7 +1,7 @@
 >### 君子曰：学不可以已。
 
 ### 📁 作品分类
-* [ 媒介批评（用户行为分析、长文案策略。）](media-criticism.md)
+* [ 媒介批评（用户行为分析、长文案策略）](media-criticism.md)
   
 * [ 概念建构（科幻世界观策划、沉浸式娱乐 IP 开发）](concept-building.md)
   
