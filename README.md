@@ -3,6 +3,6 @@
 ### 📁 作品分类
 * [ 媒介批评（用户行为分析、长文案策略。）](media-criticism.md)
   
-* [ 概念建构（游戏世界观策划、沉浸式娱乐 IP 开发）](concept-building.md)
+* [ 概念建构（科幻世界观策划、沉浸式娱乐 IP 开发）](concept-building.md)
   
 * [ 风格散文（知识产品化、游戏化营销、生活方式提案）](essays.md)
